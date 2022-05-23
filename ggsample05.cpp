@@ -139,6 +139,6 @@ int GgApp::main(int argc, const char* const* argv)
     // カラーバッファを入れ替えてイベントを取り出す
     window.swapBuffers();
   }
-
+  
   return 0;
 }
